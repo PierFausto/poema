@@ -17,5 +17,6 @@ crema
 plomo
 marrón
 mostaza
+red
 
 Estos son los colores que recuerdo
