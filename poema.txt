@@ -1,7 +1,9 @@
-Colores
+Colores y animales
 
 rojo
+gato
 azul
+perro
 amarillo
 verde
 morado
