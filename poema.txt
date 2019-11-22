@@ -5,7 +5,9 @@ gato
 azul
 perro
 amarillo
+tomate
 verde
+lechuga
 morado
 naranja
 blanco
